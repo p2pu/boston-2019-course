@@ -1,0 +1,8 @@
+_site/*
+.idea/
+.sass-cache
+token.pickle
+*.swp
+credentials.json
+venv
+__pycache__/
