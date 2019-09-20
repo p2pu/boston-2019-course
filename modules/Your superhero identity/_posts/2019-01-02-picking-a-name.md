@@ -8,8 +8,10 @@ What’s your power? Are you friendly? Does it explain your weird costume? How d
 Or are you super efficient and unbothered use the quiz.
 Here’s a superhero name generator you can try: [https://www.name-generator.org.uk/hero/](https://www.name-generator.org.uk/hero/)
 
-Alternate Identity
+Secret Identity
 Who are you when you’re not saving the world?
+
+P2PU trained facilitator
 
 Service Area
 Where is your lair and how far are you willing to travel? 
@@ -47,9 +49,10 @@ Pros
 - Gadgets
    - Utility belt
    - Power ring
+   - Google Glasses (haha)
 - Shirts and pants?
    - Type of material
-      - Flexible vs. nonflexible
+      - Flexible vs. rigid
       - Armor
 - Socks and underwear
    - Hey, it’s super important for you to be ultra comfortable while saving the world!
@@ -69,7 +72,11 @@ https://i.pinimg.com/originals/43/cc/f5/43ccf5aee4d4994a43be96d5e1f9ee09.jpg
 *What Colors are best for your power(s) and interests?*
 
 The Superhero lifestyle
-Nutrition
+Nutrition: what do you eat when you burn 50
 Housing
-Hours - getting enough sleep  
-
+Finding a Mentor/Mentoring
+Hours - getting enough sleep when crime never sleeps  
+Selfcare
+How to live a double life when your friends don’t know your secret
+How to find the right fitness plan for your powers
+Getting into a relationship? Do you date another superhero or a civilian?

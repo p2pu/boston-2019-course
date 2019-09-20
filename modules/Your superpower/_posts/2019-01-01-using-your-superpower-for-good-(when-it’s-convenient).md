@@ -12,5 +12,11 @@ title: "Using your superpower for good (when it’s convenient)"
 
 
 Benefits, Vacation, and Paychecks
-- What benefits would you need? Health insurance? Auto insurance? Life insurance?
+- What benefits would you need? 
+   - Health insurance? 
+   - Auto insurance? 
+   - Life insurance? 
+   - Super-vision insurance?
+- Finding a backup when you need to take a vacation
+- Funding 
 
