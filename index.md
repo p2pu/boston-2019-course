@@ -3,7 +3,9 @@ layout: index
 ---
 ## How to Be a Superhero
 
-Find a picture
+Skyline (CC-BY-SA [Grossbildjaeger](https://commons.wikimedia.org/wiki/User:Grossbildjaeger))
+Find
+ a picture
 
 You’ll learn how to be a superhero and save the world (and get a certificate, of course, maybe even a badge)
 
@@ -17,4 +19,5 @@ Outcomes / notes
    - How to find a sidekick
 - Correctly identifying villains
 - Finding your nemesis before your nemesis finds you
+- Succession planning
  
