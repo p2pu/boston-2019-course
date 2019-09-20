@@ -1,5 +1,5 @@
 # basic configuration
-baseurl: /facilitate-course
+baseurl: /boston-2019-course
 markdown: kramdown
 permalink: /:categories/:title/
 
