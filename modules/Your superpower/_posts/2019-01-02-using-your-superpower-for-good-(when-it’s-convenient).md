@@ -18,5 +18,9 @@ Benefits, Vacation, and Paychecks
    - Life insurance? 
    - Super-vision insurance?
 - Finding a backup when you need to take a vacation
-- Funding 
+   - Number 1 tip: don’t post on social media that you’re not going to be patrolling the streets because you’re at the beach!
+- Funding your lifestyle
+   - Secret benefactor that is only a voice
+- Super Hero Guild membership
 
+	

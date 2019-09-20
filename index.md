@@ -15,6 +15,7 @@ Outcomes / notes
 - Using your power for good
 - Picking a superhero name
 - Picking a superhero uniform and glasses
+- Signature catchphrase
 - Do you need a sidekick
    - How to find a sidekick
 - Correctly identifying villains
