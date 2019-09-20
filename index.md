@@ -20,4 +20,5 @@ Outcomes / notes
 - Correctly identifying villains
 - Finding your nemesis before your nemesis finds you
 - Succession planning
+- Marketing your services
  
